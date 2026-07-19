@@ -1,0 +1,16 @@
+{
+  "name": "TSANTOS",
+  "short_name": "TSANTOS",
+  "description": "Building materials and tools in Stoupa, West Mani.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#171717",
+  "icons": [
+    {
+      "src": "/favicons/app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
